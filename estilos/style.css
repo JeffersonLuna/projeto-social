@@ -9,7 +9,7 @@ html, body {
     background-color: black;
 }
 body {
-    background-image: url('../imagens/fundo-madeira.jpg');
+    background-image: url('../imagens/fundo-snowfall.jpg');
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -50,7 +50,7 @@ section#redes-sociais img {
     
 }
 section#redes-sociais img:hover {
-    border: 2px solid rgba(255, 255, 255, 0.712);
+    border: 3.5px solid rgba(255, 255, 255, 0.712);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.719);
     transition: transform 0.5s, border 1s;
